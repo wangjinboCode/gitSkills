@@ -1,7 +1,5 @@
 git skills 版本1.0.0
 git skills 版本1.0.1
 git skills 版本1.0.2
-<<<<<<< .merge_file_a01324
 git skills 版本1.0.3
-=======
->>>>>>> .merge_file_a04224
+
