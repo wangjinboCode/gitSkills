@@ -1,2 +1,3 @@
 # gitSkills
-Creating a new branch test  1.0.1 master
+Creating a new branch test  1.0.2
+
